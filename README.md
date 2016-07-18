@@ -6,7 +6,9 @@ Self pace links:
 - [Terms of contents][selfpace_toc]  
 
 library files downloaded from [selfpace resources][selfpace_libs] using
+
     wget -r -l1 --no-parent http://inst.eecs.berkeley.edu/~cs9f/
+
 then, removing everything but the .h and .cpp files
 
 
